@@ -28,3 +28,4 @@ C:\Users\ganga\OneDrive\Desktop\DotNetTest\obj\Debug\net8.0\refint\DotNetTest.dl
 C:\Users\ganga\OneDrive\Desktop\DotNetTest\obj\Debug\net8.0\DotNetTest.pdb
 C:\Users\ganga\OneDrive\Desktop\DotNetTest\obj\Debug\net8.0\DotNetTest.genruntimeconfig.cache
 C:\Users\ganga\OneDrive\Desktop\DotNetTest\obj\Debug\net8.0\ref\DotNetTest.dll
+C:\Users\ganga\OneDrive\Desktop\DotNetTest\obj\Debug\net8.0\DotNetTest.sourcelink.json
